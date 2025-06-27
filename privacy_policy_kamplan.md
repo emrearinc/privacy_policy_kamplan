@@ -1,5 +1,5 @@
 Gizlilik Politikası
-GelBenle uygulamasını kullandığınız için teşekkür ederiz. Bu gizlilik politikası, uygulamamızın kullanıcı verilerini nasıl topladığını, kullandığını ve sakladığını açıklar.
+KamPlan uygulamasını kullandığınız için teşekkür ederiz. Bu gizlilik politikası, uygulamamızın kullanıcı verilerini nasıl topladığını, kullandığını ve sakladığını açıklar.
 
 Toplanan Veriler
 Kayıt ve Giriş:
